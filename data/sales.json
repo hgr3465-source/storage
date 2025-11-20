@@ -1,1 +1,4 @@
-[]
+[
+  { "id": 1, "items": [{"name":"منتج 1","qty":2,"price":50}], "total":100 },
+  { "id": 2, "items": [{"name":"منتج 2","qty":1,"price":120}], "total":120 }
+]
